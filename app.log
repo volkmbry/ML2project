@@ -1,0 +1,204 @@
+2024-06-05 22:32:36,294 - INFO - Loading model...
+2024-06-05 22:32:42,449 - INFO - Loaded model
+2024-06-05 22:32:46,320 - INFO - Loading model...
+2024-06-05 22:32:52,514 - INFO - Loaded model
+2024-06-05 22:35:08,091 - INFO - app.py - line 33 - Loading model...
+2024-06-05 22:35:14,790 - INFO - app.py - line 38 - Loaded model
+2024-06-05 22:35:18,605 - INFO - app.py - line 33 - Loading model...
+2024-06-05 22:35:26,016 - INFO - app.py - line 38 - Loaded model
+2024-06-05 22:35:37,491 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:35:40,449 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:35:40,457 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:36:57,534 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:36:58,260 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:36:58,265 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:37:36,442 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:37:37,238 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:37:37,243 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:37:50,068 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:37:50,845 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:37:50,849 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:37:57,168 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:37:57,952 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:37:57,956 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:38:33,108 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:38:33,798 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:38:33,801 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:38:51,091 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:38:51,740 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:38:51,745 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:39:09,221 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:39:09,956 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:39:09,960 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:39:45,185 - INFO - app.py - line 90 - Input Text: Ich mag dieses Produkt nicht. Dieses Produkt ist scheiße
+2024-06-05 22:39:46,363 - INFO - app.py - line 92 - Translated Text: I don't like this product. This product sucks
+2024-06-05 22:39:46,368 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:39:49,367 - INFO - app.py - line 90 - Input Text: Ich mag dieses Produkt nicht. Dieses Produkt ist scheiße
+2024-06-05 22:39:50,134 - INFO - app.py - line 92 - Translated Text: I don't like this product. This product sucks
+2024-06-05 22:39:50,138 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:40:59,140 - INFO - app.py - line 90 - Input Text: I'm experiencing delays in receiving responses to my support tickets. Can you expedite the resolution process?
+2024-06-05 22:41:00,521 - INFO - app.py - line 92 - Translated Text: I'm experiencing delays in receiving replies to my support tickets. Can you expedite the resolution process?
+2024-06-05 22:41:00,526 - INFO - app.py - line 107 - Prediction: Technical_Support
+2024-06-05 22:43:16,185 - INFO - app.py - line 90 - Input Text: I'm experiencing delays in receiving responses to my support tickets. Can you expedite the resolution process?
+2024-06-05 22:43:17,542 - INFO - app.py - line 92 - Translated Text: I'm experiencing delays in receiving replies to my support tickets. Can you expedite the resolution process?
+2024-06-05 22:43:17,545 - INFO - app.py - line 107 - Prediction: Technical_Support
+2024-06-05 22:44:29,925 - INFO - app.py - line 90 - Input Text: I'm experiencing delays in receiving responses to my support tickets. Can you expedite the resolution process?
+2024-06-05 22:44:31,352 - INFO - app.py - line 92 - Translated Text: I'm experiencing delays in receiving replies to my support tickets. Can you expedite the resolution process?
+2024-06-05 22:44:31,355 - INFO - app.py - line 107 - Prediction: Technical_Support
+2024-06-05 22:44:40,684 - INFO - app.py - line 90 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 22:44:41,339 - INFO - app.py - line 92 - Translated Text: I would like to learn more about this product:
+2024-06-05 22:44:41,341 - INFO - app.py - line 107 - Prediction: Product_Enquiries
+2024-06-05 22:52:18,377 - INFO - app.py - line 33 - Loading model...
+2024-06-05 22:52:26,620 - INFO - app.py - line 38 - Loaded model
+2024-06-05 22:56:11,614 - INFO - app.py - line 33 - Loading model...
+2024-06-05 22:56:17,690 - INFO - app.py - line 38 - Loaded model
+2024-06-05 22:56:21,691 - INFO - app.py - line 33 - Loading model...
+2024-06-05 22:56:28,547 - INFO - app.py - line 38 - Loaded model
+2024-06-05 22:56:53,006 - INFO - app.py - line 33 - Loading model...
+2024-06-05 22:56:59,165 - INFO - app.py - line 38 - Loaded model
+2024-06-05 22:59:13,833 - INFO - app.py - line 33 - Loading model...
+2024-06-05 22:59:20,125 - INFO - app.py - line 38 - Loaded model
+2024-06-05 23:04:26,688 - INFO - app.py - line 34 - Loading model...
+2024-06-05 23:04:32,986 - INFO - app.py - line 39 - Loaded model
+2024-06-05 23:05:10,618 - INFO - app.py - line 34 - Loading model...
+2024-06-05 23:05:19,725 - INFO - app.py - line 39 - Loaded model
+2024-06-05 23:10:17,358 - INFO - app.py - line 34 - Loading model...
+2024-06-05 23:10:23,945 - INFO - app.py - line 39 - Loaded model
+2024-06-05 23:14:50,484 - INFO - app.py - line 36 - Loading model...
+2024-06-05 23:14:56,974 - INFO - app.py - line 41 - Loaded model
+2024-06-05 23:17:21,569 - INFO - app.py - line 36 - Loading model...
+2024-06-05 23:17:27,691 - INFO - app.py - line 41 - Loaded model
+2024-06-05 23:17:31,569 - INFO - app.py - line 36 - Loading model...
+2024-06-05 23:17:37,957 - INFO - app.py - line 41 - Loaded model
+2024-06-05 23:17:44,598 - INFO - app.py - line 93 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-05 23:17:47,673 - INFO - app.py - line 95 - Translated Text: I would like to learn more about this product:
+2024-06-05 23:17:47,686 - INFO - app.py - line 110 - Prediction: Product_Enquiries
+2024-06-05 23:19:15,128 - INFO - app.py - line 36 - Loading model...
+2024-06-05 23:19:21,147 - INFO - app.py - line 41 - Loaded model
+2024-06-05 23:21:13,379 - INFO - app.py - line 37 - Loading model...
+2024-06-05 23:21:21,704 - INFO - app.py - line 42 - Loaded model
+2024-06-05 23:21:25,923 - INFO - app.py - line 37 - Loading model...
+2024-06-05 23:21:32,415 - INFO - app.py - line 42 - Loaded model
+2024-06-05 23:22:06,675 - INFO - app.py - line 37 - Loading model...
+2024-06-05 23:22:12,699 - INFO - app.py - line 42 - Loaded model
+2024-06-05 23:26:18,714 - INFO - app.py - line 37 - Loading model...
+2024-06-05 23:26:24,598 - INFO - app.py - line 42 - Loaded model
+2024-06-05 23:27:35,362 - INFO - app.py - line 37 - Loading model...
+2024-06-05 23:27:41,691 - INFO - app.py - line 42 - Loaded model
+2024-06-05 23:33:23,220 - INFO - app.py - line 37 - Loading model...
+2024-06-05 23:33:30,929 - INFO - app.py - line 42 - Loaded model
+2024-06-05 23:34:38,575 - INFO - app.py - line 138 - Bulk Classification Job Started
+2024-06-05 23:34:38,575 - INFO - app.py - line 139 - Input Sentences: 5
+2024-06-05 23:34:38,576 - INFO - app.py - line 94 - Input Text: Ich hätte gerne mehr Informationen zu Ihrem Smartphone-Modell. Könnten Sie mir bitte Details zu den Funktionen und Preisen geben?
+2024-06-05 23:34:41,802 - INFO - app.py - line 96 - Translated Text: I would like more information about your smartphone model. Could you please give me details about the functions and prices?
+2024-06-05 23:34:41,811 - INFO - app.py - line 94 - Input Text: Guten Tag, ich interessiere mich für Ihre Möbelstücke. Können Sie mir sagen, ob sie derzeit verfügbar sind?
+2024-06-05 23:34:43,318 - INFO - app.py - line 96 - Translated Text: Hello, I'm interested in your pieces of furniture. Can you tell me if they are currently available?
+2024-06-05 23:34:43,321 - INFO - app.py - line 94 - Input Text: Sehr geehrtes Team, gibt es eine Garantie für das Elektrogerät, das ich bei Ihnen gekauft habe?
+2024-06-05 23:34:44,467 - INFO - app.py - line 96 - Translated Text: Dear team, is there a guarantee for the electrical device I bought from you?
+2024-06-05 23:34:44,471 - INFO - app.py - line 94 - Input Text: Können Sie mir Kundenbewertungen für das Produkt XYZ zur Verfügung stellen?
+2024-06-05 23:34:45,250 - INFO - app.py - line 96 - Translated Text: Can you provide me with customer reviews for the product XYZ?
+2024-06-05 23:34:45,252 - INFO - app.py - line 94 - Input Text: Hallo, wie funktioniert das Rückgaberecht für die bei Ihnen gekauften Produkte?
+2024-06-05 23:34:46,306 - INFO - app.py - line 96 - Translated Text: Hello, how does the right of return for the products purchased from you work?
+2024-06-05 23:36:18,231 - INFO - app.py - line 138 - Bulk Classification Job Started
+2024-06-05 23:36:18,232 - INFO - app.py - line 139 - Input Sentences: 5
+2024-06-05 23:36:18,233 - INFO - app.py - line 94 - Input Text: Ich hätte gerne mehr Informationen zu Ihrem Smartphone-Modell. Könnten Sie mir bitte Details zu den Funktionen und Preisen geben?
+2024-06-05 23:36:20,638 - INFO - app.py - line 96 - Translated Text: I would like more information about your smartphone model. Could you please give me details about the functions and prices?
+2024-06-05 23:36:20,644 - INFO - app.py - line 94 - Input Text: Guten Tag, ich interessiere mich für Ihre Möbelstücke. Können Sie mir sagen, ob sie derzeit verfügbar sind?
+2024-06-05 23:36:23,321 - INFO - app.py - line 96 - Translated Text: Hello, I'm interested in your pieces of furniture. Can you tell me if they are currently available?
+2024-06-05 23:36:23,327 - INFO - app.py - line 94 - Input Text: Sehr geehrtes Team, gibt es eine Garantie für das Elektrogerät, das ich bei Ihnen gekauft habe?
+2024-06-05 23:36:25,289 - INFO - app.py - line 96 - Translated Text: Dear team, is there a guarantee for the electrical device I bought from you?
+2024-06-05 23:36:25,295 - INFO - app.py - line 94 - Input Text: Können Sie mir Kundenbewertungen für das Produkt XYZ zur Verfügung stellen?
+2024-06-05 23:36:27,276 - INFO - app.py - line 96 - Translated Text: Can you provide me with customer reviews for the product XYZ?
+2024-06-05 23:36:27,283 - INFO - app.py - line 94 - Input Text: Hallo, wie funktioniert das Rückgaberecht für die bei Ihnen gekauften Produkte?
+2024-06-05 23:36:28,953 - INFO - app.py - line 96 - Translated Text: Hello, how does the right of return for the products purchased from you work?
+2024-06-06 00:09:58,656 - INFO - app.py - line 37 - Loading model...
+2024-06-06 00:10:10,509 - INFO - app.py - line 42 - Loaded model
+2024-06-06 00:10:15,468 - INFO - app.py - line 37 - Loading model...
+2024-06-06 00:10:23,477 - INFO - app.py - line 42 - Loaded model
+2024-06-06 00:10:26,680 - INFO - app.py - line 94 - Input Text: I'm experiencing delays in receiving responses to my support tickets. Can you expedite the resolution process?
+2024-06-06 00:10:29,817 - INFO - app.py - line 96 - Translated Text: I'm experiencing delays in receiving replies to my support tickets. Can you expedite the resolution process?
+2024-06-06 00:10:29,824 - INFO - app.py - line 112 - Prediction: Technical_Support
+2024-06-06 00:10:32,170 - INFO - app.py - line 94 - Input Text: I'm experiencing delays in receiving responses to my support tickets. Can you expedite the resolution process?
+2024-06-06 00:10:33,464 - INFO - app.py - line 96 - Translated Text: I'm experiencing delays in receiving replies to my support tickets. Can you expedite the resolution process?
+2024-06-06 00:10:33,470 - INFO - app.py - line 112 - Prediction: Technical_Support
+2024-06-06 00:10:43,662 - INFO - app.py - line 138 - Bulk Classification Job Started
+2024-06-06 00:10:43,663 - INFO - app.py - line 139 - Input Sentences: 5
+2024-06-06 00:10:43,665 - INFO - app.py - line 94 - Input Text: Ich hätte gerne mehr Informationen zu Ihrem Smartphone-Modell. Könnten Sie mir bitte Details zu den Funktionen und Preisen geben?
+2024-06-06 00:10:46,068 - INFO - app.py - line 96 - Translated Text: I would like more information about your smartphone model. Could you please give me details about the functions and prices?
+2024-06-06 00:10:46,081 - INFO - app.py - line 94 - Input Text: Guten Tag, ich interessiere mich für Ihre Möbelstücke. Können Sie mir sagen, ob sie derzeit verfügbar sind?
+2024-06-06 00:10:48,902 - INFO - app.py - line 96 - Translated Text: Hello, I'm interested in your pieces of furniture. Can you tell me if they are currently available?
+2024-06-06 00:10:48,907 - INFO - app.py - line 94 - Input Text: Sehr geehrtes Team, gibt es eine Garantie für das Elektrogerät, das ich bei Ihnen gekauft habe?
+2024-06-06 00:10:49,774 - INFO - app.py - line 96 - Translated Text: Dear team, is there a guarantee for the electrical device I bought from you?
+2024-06-06 00:10:49,779 - INFO - app.py - line 94 - Input Text: Können Sie mir Kundenbewertungen für das Produkt XYZ zur Verfügung stellen?
+2024-06-06 00:10:50,746 - INFO - app.py - line 96 - Translated Text: Can you provide me with customer reviews for the product XYZ?
+2024-06-06 00:10:50,749 - INFO - app.py - line 94 - Input Text: Hallo, wie funktioniert das Rückgaberecht für die bei Ihnen gekauften Produkte?
+2024-06-06 00:10:51,571 - INFO - app.py - line 96 - Translated Text: Hello, how does the right of return for the products purchased from you work?
+2024-06-06 00:22:20,871 - INFO - app.py - line 37 - Loading model...
+2024-06-06 00:22:24,289 - INFO - app.py - line 42 - Loaded model
+2024-06-06 00:22:25,978 - INFO - app.py - line 37 - Loading model...
+2024-06-06 00:22:29,302 - INFO - app.py - line 42 - Loaded model
+2024-06-07 01:11:48,995 - INFO - app.py - line 37 - Loading model...
+2024-06-07 01:12:09,211 - INFO - app.py - line 42 - Loaded model
+2024-06-07 01:12:17,259 - INFO - app.py - line 37 - Loading model...
+2024-06-07 01:12:31,047 - INFO - app.py - line 42 - Loaded model
+2024-06-07 01:13:21,305 - INFO - app.py - line 37 - Loading model...
+2024-06-07 01:13:36,497 - INFO - app.py - line 42 - Loaded model
+2024-06-07 01:18:45,854 - INFO - app.py - line 37 - Loading model...
+2024-06-07 01:18:59,647 - INFO - app.py - line 42 - Loaded model
+2024-06-07 01:19:16,352 - INFO - app.py - line 94 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-07 01:19:29,495 - INFO - app.py - line 96 - Translated Text: I would like to learn more about this product:
+2024-06-07 01:19:29,583 - INFO - app.py - line 112 - Prediction: Product_Enquiries
+2024-06-07 01:20:18,932 - INFO - app.py - line 94 - Input Text: Ich mag dieses Produkt nicht. Es ist sehr arm und schlecht
+2024-06-07 01:20:21,620 - INFO - app.py - line 96 - Translated Text: I don't like this product. It's very poor and bad
+2024-06-07 01:20:21,627 - INFO - app.py - line 112 - Prediction: Product_Enquiries
+2024-06-07 01:20:49,319 - INFO - app.py - line 94 - Input Text: Ich mag dieses Produkt nicht. Es ist sehr arm und schlecht
+2024-06-07 01:20:52,749 - INFO - app.py - line 96 - Translated Text: I don't like this product. It's very poor and bad
+2024-06-07 01:20:52,752 - INFO - app.py - line 112 - Prediction: Product_Enquiries
+2024-06-07 01:27:39,027 - INFO - app.py - line 37 - Loading model...
+2024-06-07 01:27:49,854 - INFO - app.py - line 42 - Loaded model
+2024-06-07 01:28:02,274 - INFO - app.py - line 94 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-07 01:28:07,049 - INFO - app.py - line 96 - Translated Text: I would like to learn more about this product:
+2024-06-07 01:28:07,068 - INFO - app.py - line 112 - Prediction: Product_Enquiries
+2024-06-07 01:28:49,024 - INFO - app.py - line 138 - Bulk Classification Job Started
+2024-06-07 01:28:49,025 - INFO - app.py - line 139 - Input Sentences: 5
+2024-06-07 01:28:49,038 - INFO - app.py - line 94 - Input Text: Ich hätte gerne mehr Informationen zu Ihrem Smartphone-Modell. Könnten Sie mir bitte Details zu den Funktionen und Preisen geben?
+2024-06-07 01:28:54,440 - INFO - app.py - line 96 - Translated Text: I would like more information about your smartphone model. Could you please give me details about the functions and prices?
+2024-06-07 01:28:54,464 - INFO - app.py - line 94 - Input Text: Guten Tag, ich interessiere mich für Ihre Möbelstücke. Können Sie mir sagen, ob sie derzeit verfügbar sind?
+2024-06-07 01:29:00,280 - INFO - app.py - line 96 - Translated Text: Hello, I'm interested in your pieces of furniture. Can you tell me if they are currently available?
+2024-06-07 01:29:00,290 - INFO - app.py - line 94 - Input Text: Sehr geehrtes Team, gibt es eine Garantie für das Elektrogerät, das ich bei Ihnen gekauft habe?
+2024-06-07 01:29:03,863 - INFO - app.py - line 96 - Translated Text: Dear team, is there a guarantee for the electrical device I bought from you?
+2024-06-07 01:29:03,881 - INFO - app.py - line 94 - Input Text: Können Sie mir Kundenbewertungen für das Produkt XYZ zur Verfügung stellen?
+2024-06-07 01:29:06,643 - INFO - app.py - line 96 - Translated Text: Can you provide me with customer reviews for the product XYZ?
+2024-06-07 01:29:06,647 - INFO - app.py - line 94 - Input Text: Hallo, wie funktioniert das Rückgaberecht für die bei Ihnen gekauften Produkte?
+2024-06-07 01:29:10,045 - INFO - app.py - line 96 - Translated Text: Hello, how does the right of return for the products purchased from you work?
+2024-06-07 13:01:09,017 - INFO - app.py - line 38 - Loading model...
+2024-06-07 13:01:11,000 - INFO - app.py - line 44 - Loaded model
+2024-06-07 13:01:39,985 - INFO - app.py - line 96 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-07 13:01:42,130 - INFO - app.py - line 98 - Translated Text: I would like to learn more about this product:
+2024-06-07 13:01:42,419 - INFO - app.py - line 114 - Prediction: Product_Enquiries
+2024-06-07 13:03:08,937 - INFO - app.py - line 38 - Loading model...
+2024-06-07 13:03:12,624 - INFO - app.py - line 44 - Loaded model
+2024-06-07 13:10:33,498 - INFO - app.py - line 38 - Loading model...
+2024-06-07 13:10:35,323 - INFO - app.py - line 44 - Loaded model
+2024-06-07 11:27:33,646 - INFO - app.py - line 38 - Loading model...
+2024-06-07 11:27:35,145 - INFO - app.py - line 44 - Loaded model
+2024-06-07 11:30:25,917 - INFO - app.py - line 96 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-07 11:30:29,350 - INFO - app.py - line 98 - Translated Text: I would like to learn more about this product:
+2024-06-07 11:30:29,364 - INFO - app.py - line 114 - Prediction: Product_Enquiries
+2024-06-07 11:30:30,264 - INFO - app.py - line 96 - Input Text: Ich würde gerne mehr über dieses Produkt erfahren:
+2024-06-07 11:30:31,392 - INFO - app.py - line 98 - Translated Text: I would like to learn more about this product:
+2024-06-07 11:30:31,394 - INFO - app.py - line 114 - Prediction: Product_Enquiries
+2024-06-07 11:30:43,249 - INFO - app.py - line 140 - Bulk Classification Job Started
+2024-06-07 11:30:43,250 - INFO - app.py - line 141 - Input Sentences: 5
+2024-06-07 11:30:43,250 - INFO - app.py - line 96 - Input Text: Ich hätte gerne mehr Informationen zu Ihrem Smartphone-Modell. Könnten Sie mir bitte Details zu den Funktionen und Preisen geben?
+2024-06-07 11:30:45,349 - INFO - app.py - line 98 - Translated Text: I would like more information about your smartphone model. Could you please give me details about the functions and prices?
+2024-06-07 11:30:45,352 - INFO - app.py - line 96 - Input Text: Guten Tag, ich interessiere mich für Ihre Möbelstücke. Können Sie mir sagen, ob sie derzeit verfügbar sind?
+2024-06-07 11:30:48,059 - INFO - app.py - line 98 - Translated Text: Hello, I'm interested in your pieces of furniture. Can you tell me if they are currently available?
+2024-06-07 11:30:48,063 - INFO - app.py - line 96 - Input Text: Sehr geehrtes Team, gibt es eine Garantie für das Elektrogerät, das ich bei Ihnen gekauft habe?
+2024-06-07 11:30:49,674 - INFO - app.py - line 98 - Translated Text: Dear team, is there a guarantee for the electrical device I bought from you?
+2024-06-07 11:30:49,677 - INFO - app.py - line 96 - Input Text: Können Sie mir Kundenbewertungen für das Produkt XYZ zur Verfügung stellen?
+2024-06-07 11:30:51,935 - INFO - app.py - line 98 - Translated Text: Can you provide me with customer reviews for the product XYZ?
+2024-06-07 11:30:51,935 - INFO - app.py - line 96 - Input Text: Hallo, wie funktioniert das Rückgaberecht für die bei Ihnen gekauften Produkte?
+2024-06-07 11:30:53,774 - INFO - app.py - line 98 - Translated Text: Hello, how does the right of return for the products purchased from you work?
+2024-06-07 11:36:52,136 - INFO - app.py - line 38 - Loading model...
+2024-06-07 11:36:53,346 - INFO - app.py - line 44 - Loaded model

@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Customer Request Classification App
+{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-center align-items-center vh-100" style="background: linear-gradient(to bottom, #b0c4de, #ffffff);">
+  <div class="container p-5 rounded-lg shadow-lg" style="background-color: #ffffff;">
+    <h1 class="text-center mb-4" style="font-family: 'Montserrat', sans-serif;">Customer Request Classification App</h1>
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-6">
+        <form method="post" action="/" class="mb-4">
+          <div class="form-group">
+            <label for="text" class="mb-2" style="font-family: 'Open Sans', sans-serif;">Customer Query:</label>
+            <textarea class="form-control" id="text" name="text" rows="5" required>{{text}}</textarea>
+          </div>
+          <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary" style="font-family: 'Montserrat', sans-serif;">Predict</button>
+          </div>
+        </form>
+      </div>
+      <div class="col-lg-6">
+        <div class="text-center">
+          <h2 class="mb-4" style="font-family: 'Montserrat', sans-serif;">Classification:</h2>
+          <div class="result">
+          <div class="result-container d-flex justify-content-center align-items-center" style="background-color: #f1f1f1; border-radius: 0.3rem; width: 200px; height: 150px;">
+            <div class="result-container d-flex align-items-center justify-content-center" >
+                {% if prediction == 'Complaints' %}
+                  <span class="text-danger" style="font-size: 2rem; font-family: 'Montserrat', sans-serif;">Complaints</span>
+                {% elif prediction == 'Product_Enquiries' %}
+                  <span class="text-warning" style="font-size: 2rem; font-family: 'Montserrat', sans-serif;">Product Enquiries</span>
+                {% elif prediction == 'Technical_Support' %}
+                  <span class="text-info" style="font-size: 2rem; font-family: 'Montserrat', sans-serif;">Technical Support</span>
+                {% elif prediction == 'Order_requests' %}
+                  <span class="text-primary" style="font-size: 2rem; font-family: 'Montserrat', sans-serif;">Order Requests</span>
+                {% elif prediction == 'General_request' %}
+                  <span class="text-secondary" style="font-size: 2rem; font-family: 'Montserrat', sans-serif;">General Request</span>
+                {% else %}
+                  <span class="text-muted" style="font-size: 2rem; font-family: 'Montserrat', sans-serif;">{{prediction}}</span>
+                {% endif %}
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+
+<style>
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #007bff;
+}
+
+.result-container {
+  font-weight: bold;
+  font-size: 2rem;
+  height: 100vh;
+   width: 100vw;
+}
+.result {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+</style>
+{% endblock %}

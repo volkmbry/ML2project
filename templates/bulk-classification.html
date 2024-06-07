@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Bulk Classification - Customer Request Classification App
+{% endblock %}
+
+{% block content %}
+<div class="d-flex justify-content-center align-items-center vh-100" style="background: linear-gradient(to bottom, #b0c4de, #ffffff);">
+  <div class="container p-5 rounded-lg shadow-lg" style="background-color: #ffffff;">
+    <h1 class="text-center mb-4" style="font-family: 'Montserrat', sans-serif;">Bulk Classification</h1>
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-6">
+        <form method="post" action="/bulk-predict" enctype="multipart/form-data" target="_blank" class="mb-4">
+          <div class="form-group">
+            <label for="file" class="mb-2" style="font-family: 'Open Sans', sans-serif;">Select File:</label>
+            <input type="file" class="form-control-file" id="file" name="file" required accept=".txt">
+          </div>
+          <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary" style="font-family: 'Montserrat', sans-serif;">Predict</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+
+<style>
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.form-control-file:focus {
+  box-shadow: none;
+  border-color: #007bff;
+}
+</style>
+{% endblock %}
